@@ -1,5 +1,5 @@
 /*
- * HW07 141044043 Emire Korkmaz
+ * HW07 Emire Korkmaz
 */
 package javaapplication1;
 
