@@ -1,5 +1,5 @@
 /*
-    HW07 141044043 Emire Korkmaz
+    HW07 Emire Korkmaz
 
     In this homework, I wrote a generic class hierarchy for sets and maps for Java.
     -GTUSetInt<T> is a Java interface with the following methods empty, size,
