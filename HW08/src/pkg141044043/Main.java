@@ -5,7 +5,7 @@
  */
 package pkg141044043;
 /*
-    HW08 - 141044043 Emire Korkmaz
+    HW08 - Emire Korkmaz
 
     In this homework, we wrote our game of Connect Four program in Java
    with a GUI. When the game starts, a dialog box shows up to ask 1 or 2 player
